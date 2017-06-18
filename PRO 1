@@ -1,0 +1,140 @@
+ 
+NAME OF STUDENT: AKAME, KENNETH
+DATE: 4/5/17
+
+
+
+                                    project1
+
+1. Define the following;
+
+a.	computer : this is an electronic device that takes inputs from a user or another device, process it and generates output.
+
+b.	Operating System: this is a software that runs the computer. It manages the computer memory and processes as well as all of its software and hardware.
+
+.
+c.	Computer Software: It is a set of instructions that tells the hardware what to do and how to do it. Eg web browser, games, word processor etc.
+
+d.	Computer Hardware: this is a part of the computer that has a physical structure. Eg mouse, keyboard. Monitor, motherboard. etc
+
+
+e.	CPU: Central Processing Unit; it is the brain of the computer and its function is to carry out commands. 
+
+f.	RAM: Random Access Memory; it is a device that stores temporary information. It is a short-term memory. It disappears when the computer is turned off.
+
+
+g.	Application: these are software that allow the performance of a specific task. Eg Microsoft Word
+  
+h.	NIC card: this is a device that enables network connection in a computer.
+
+
+i.	ROM: Read Only Memory is little chipset on the motherboard that stores all the computer settings.
+
+j.	the motherboard: this is the computer’s main circuit board. It’s a thin plate that holds the CPU, and connect all other devices together.
+
+Two main mother board brand are Intel and AMD.
+
+k.	BIOS: This is a program that checks all the hardware before a computer bootup.
+
+l.	HDMI: High Definition Multimedia Interface, used to transfer image and sound from the computer to a display device such as the TV with a single cable.
+
+ 
+m.	url: Uniform Resource Locator, it is reference to a web resource that specifies its location on a computer. Example of url is ftp://www.linuxtrainings.com. 
+
+2. Build a computer from scratch
+ To build a computer from scratch, we need to assemble the following parts; 
+- motherboard
+- CPU
+- RAM
+- ROM
+- Keyboard
+- Hard drive
+- monitor
+- Nic Card
+- graphic
+- power system
+- USB Port
+- HDMI
+
+3. what role is the NIC playing in the computer
+It helps the computer to connect to internet
+
+4. check your computer's specifications (what is your cpu size? your hard drive ? your memory?) 
+- CPU = 2.30GHz
+- Hard drive = 911GB
+- RAM = 6.00GB
+
+5. what is the difference between a ROM and a RAM?
+Data in the ram are mere temporary data that disappears as soon as the computer is turned off while data in the rom are permanently stored and cannot be deleted when the computer is turned off.
+
+6. What is the difference between a RAM and a hard drive
+A RAM is where information is being stored while it is being accessed or worked on. For example, when I’m updating my resume, then I click on the icon to open it, the file is copied from the hard drive to the RAM. on the other hand, a hard drive safe permanent data and this does not depend on the supply of power nor be deleted when the computer is turned off.
+
+7. what program is responsible for checking all the hardwares during the boot up?
+ BIOS
+
+8. what is the difference between the NIC and the USB port ?
+NIC enables connection in and out of the computer while the USB port is used to transfer data in and out of the computer.
+
+9. what is teamviewer? what is it for ?
+This is a computer software program used for remote control, desktop sharing, meetings, online classes.
+
+10. what is the difference between a 64 bits system and a 32 bits system ? which one is better.
+A 64 bits system has a higher operating system than a 32 bits system. Thus the 64 bits will perfume more better and faster than the 32 bits system.
+
+11. what is the difference between an OS and an Application?
+The operating system is used to manage system resources and give application software an environment in which it can run. The operating system act as an intermediary between the user, the application and the hardware.
+
+12. bookmark the following url and call it "online":  https://zoom.us/j/787677723?pwd=gcGrN7ZgUvk%3D
+- open your browser
+- copy the link in the link space
+- hit enter to access the site
+- click on the bookmark icon
+- click on “New” and type “online”
+- click on “Done”
+
+13. why did you get in the IT?  
+The IT industry has more jobs with a better pay.
+
+What’s the difference between a hub, a switch, and a router?
+In a word, intelligence.
+Hubs, switches, and routers are all devices that let you connect one or more computers to other computers, networked devices, or even other networks. Each has two or more connectors called ports into which you plug in the cables to make the connection. Varying degrees of magic happen inside the device and therein lies the difference. I often see the terms misused, so let’s clarify what each one really means.
+Hubs
+A hub is typically the least expensive, least intelligent, and least complicated of the three. Its job is very simple – anything that comes in one port is sent out to the others.
+That’s it.
+If a message1 comes in for computer “A”, that message is sent out all the other ports, regardless of which one computer “A” is on:
+ 
+And when computer “A” responds, its response also goes out to every other port on the hub:
+ 
+Every computer connected to the hub “sees” everything that every other computer on the hub sees. The computers themselves decide if they are the targeted recipient of the message and when a message should be paid attention to or not.
+The hub itself is blissfully ignorant of the data being transmitted. For years, simple hubs have been quick and easy ways to connect computers in small networks.
+Switches
+A switch does essentially what a hub does, but more efficiently. By paying attention to the traffic that comes across it, it can “learn” where particular addresses are.
+Initially, a switch knows nothing and simply sends on incoming messages to all ports:
+ 
+Even accepting that first message, however, the switch has learned something – it knows on which connection the sender of the message is located. Thus, when machine “A” responds to the message, the switches only need to send that message out to the one connection:
+ 
+In addition to sending the response through to the originator, the switch has now learned something else – it now knows on which connection machine “A” is located.
+That means that subsequent messages destined for machine “A” need only be sent to that one port:
+ 
+Switches learn the location of the devices that they are connected to almost instantaneously. The net result is that most network traffic only goes where it needs to rather than to every port. On busy networks, this can make the network significantly faster.
+Routers
+A router is the smartest and most complicated of the bunch. Routers come in all shapes and sizes – from the small, four-port broadband routers that are very popular right now to the large industrial strength devices that drive the internet itself.
+A simple way to think of a router is as a computer that can be programmed to understand, possibly manipulate, and route the data that it’s being asked to handle. Many routers today are, in fact, little computers dedicated to the task of routing network traffic.
+As far as simple traffic routing is concerned, a router operates exactly as a switch, learning the location of the computers on its connections and routing traffic only to those computers.
+Consumer grade routers perform at minimum two additional and important
+tasks: DHCP and NAT.
+DHCP – Dynamic Host Configuration Protocol – is the way dynamic IP addresses are assigned. A device asks for an IP address to be assigned to it from “upstream” and a DHCP server responds with an IP address assignment. A router connected to your ISP-provided internet connection will typically ask your ISP’s server for an IP address; this will be your IP address on the internet. Your local computers, on the other hand, will ask the router for an IP address and these addresses are local to your network.
+ 
+NAT – Network Address Translation – is the way that the router translates the IP addresses of packets that cross the internet/local network boundary. When computer “A” sends a packet out, the IP address that it’s “from” is that of computer “A” – 192.168.1.2 in the example above. When the router passes that on to the internet, it replaces the local IP address with the internet IP address assigned by the ISP. It also keeps track, so that if a response comes back from somewhere on the internet, the router knows to do the translation in reverse – replace the internet IP address with the local IP address for machine “A” and then send that response packet on to machine “A”.
+A side effect of NAT is that machines on the internet cannot initiate communications to local machines – they can only respond to communications initiated by those local machines.
+The net effect is that the router then also acts as a firewall:
+ 
+What that means is that malware that might spread by trying to independently connect to your computer over the network cannot.
+ 
+All routers include some kind of user interface for configuring how the router will treat traffic. The really large routers include the equivalent of a full-blown programming language to describe how they should operate as well as the ability to communicate with other routers to describe or determine the best way to get network traffic from point A to point B.
+A note about speed
+A quick note on one other thing that you’ll often see mentioned with these devices and that’s network speed. Most devices now are capable of both 10mbps (10 mega-bits, or million bits, per second) as well as 100mbps and will automatically detect the speed.
+More and more devices are now capable of handling 1000mbps or a billion bits per second (1gpbs).
+Similarly, many devices are now also wireless transmitters that simply act like additional ports on the device.
+
